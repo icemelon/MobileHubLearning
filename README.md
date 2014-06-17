@@ -44,4 +44,8 @@
 
         (currently not well defined)
         output: buffer trace (file #5)
-        
+
+### ToDo
+- change the `classify.py` to use cross-validation instead of using test data (you need change the input parameter to Weka)
+- output the classification model in `classify.py`, and use the model to predict any other test data sets
+- improve the easiness of these tools
